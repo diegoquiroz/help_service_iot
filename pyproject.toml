@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "sos_app"
+version = "0.0.1"
+description = "This program is for IoT final project."
+authors = ["Diego Quiroz <diego00aq@gmail.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = ">=3.8,<3.11"
+python-dotenv = "^0.19.2"
+ibm-cloud-sdk-core = "^3.13.2"
+ibm-watson = "^5.3.0"
+sounddevice = "^0.4.3"
+scipy = "^1.7.3"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
