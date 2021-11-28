@@ -1,0 +1,23 @@
+help_words = [
+    "ayuda",
+    "ayuda por favor",
+    "auxilio",
+    "socorro",
+    "necesito ayuda",
+    "hay alguién ahí",
+    "caí",
+    "me caí",
+    "no me siento bien",
+    "me siento mal",
+    "me estoy sintiendo mal",
+    "me lastimé",
+    "me lastima",
+    "estoy lastimado",
+    "estoy lastimada",
+    "por favor",
+    "auxilio por favor",
+    "emergencia",
+    "necesito que alguien me ayude",
+    "nueve uno uno",
+    "llamar a emergencias"
+]
